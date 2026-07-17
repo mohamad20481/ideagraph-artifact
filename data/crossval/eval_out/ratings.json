@@ -1,0 +1,2599 @@
+{
+  "per_item": {
+    "b001": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b002": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b003": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 5,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 1,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b004": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b005": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b006": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 3,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b007": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b008": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b009": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b010": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b011": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b012": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 1,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b013": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 1,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 5,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 1,
+        "overall": 2
+      }
+    },
+    "b014": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b015": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b016": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 4,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 3,
+        "overall": 4
+      }
+    },
+    "b017": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b018": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 5,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b019": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b020": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 1,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b021": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b022": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 2,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 2,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b023": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 1,
+        "overall": 2
+      }
+    },
+    "b024": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b025": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b026": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b027": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b028": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 3,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b029": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b030": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b031": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b032": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b033": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b034": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      }
+    },
+    "b035": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b036": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 4
+      }
+    },
+    "b037": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b038": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b039": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b040": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b041": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b042": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b043": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 4,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b044": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b045": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b046": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b047": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 4,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b048": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 1,
+        "overall": 2
+      }
+    },
+    "b049": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b050": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b051": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b052": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 4
+      }
+    },
+    "b053": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b054": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 3,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b055": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 1,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b056": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b057": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b058": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      }
+    },
+    "b059": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b060": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b061": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b062": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b063": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      }
+    },
+    "b064": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b065": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b066": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b067": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b068": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b069": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b070": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b071": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b072": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b073": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b074": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b075": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b076": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b077": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 1,
+        "overall": 2
+      }
+    },
+    "b078": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b079": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b080": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      }
+    },
+    "b081": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b082": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 1,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 1,
+        "significance": 2,
+        "excitement": 1,
+        "overall": 1
+      }
+    },
+    "b083": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b084": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 5,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b085": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b086": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b087": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      }
+    },
+    "b088": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b089": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      }
+    },
+    "b090": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 5,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b091": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b092": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 5,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b093": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 5,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b094": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 3
+      }
+    },
+    "b095": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 5,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b096": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b097": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 2,
+        "clarity": 2,
+        "significance": 3,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b098": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 5,
+        "excitement": 5,
+        "overall": 5
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    },
+    "b099": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 3,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 2,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 1,
+        "overall": 2
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 2,
+        "feasibility": 3,
+        "clarity": 3,
+        "significance": 2,
+        "excitement": 2,
+        "overall": 2
+      }
+    },
+    "b100": {
+      "kimi/moonshot-v1-32k": {
+        "novelty": 4,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 4,
+        "excitement": 4,
+        "overall": 4
+      },
+      "kimi/kimi-k2.5": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 4,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      },
+      "kimi/kimi-k2.6": {
+        "novelty": 3,
+        "feasibility": 4,
+        "clarity": 3,
+        "significance": 3,
+        "excitement": 3,
+        "overall": 3
+      }
+    }
+  },
+  "skipped": [
+    "b063:kimi/kimi-k2.6"
+  ]
+}

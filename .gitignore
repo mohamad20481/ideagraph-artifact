@@ -1,0 +1,50 @@
+# ── Secrets / credentials (NEVER commit) ─────────────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+data/.remember_token.json
+
+# ── Database / runtime data ──────────────────────────────────────────────────
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/checkpoints/
+data/cache/
+output/
+*.log
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.Python
+build/
+dist/
+.venv/
+venv/
+env/
+
+# ── IDE / editors ────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ── Test / coverage ──────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# ── Node / frontend (for future React migration) ─────────────────────────────
+node_modules/
+.next/
+dist/

@@ -1,0 +1,46 @@
+# ── Don't bake secrets or dev artifacts into the image ─────────────────────
+.env
+.env.*
+!.env.example
+
+# Databases / generated data
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/checkpoints/
+data/cache/
+data/.remember_token.json
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Tests (not needed in production image)
+tests/
+
+# Docs / repo metadata
+.git/
+.gitignore
+.github/
+*.md
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

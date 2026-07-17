@@ -1,0 +1,25 @@
+openai>=1.30.0
+python-dotenv>=1.0.0
+networkx>=3.0
+python-louvain>=0.16
+requests>=2.31.0
+rich>=13.0.0
+streamlit>=1.35.0
+plotly>=5.18.0
+pyvis>=0.3.2
+python-docx>=1.1.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+# Semantic (dense-embedding) novelty. sentence-transformers pulls in
+# transformers + torch. Pin transformers <5.0 (sentence-transformers 5.x
+# is incompatible with transformers 5.x). The torch backend only is used
+# (semantic_novelty.py sets USE_TF=0), so a TF install is not required.
+sentence-transformers>=2.7.0
+transformers>=4.41,<5.0
+# Evaluation harness (evaluation/): statistics + PDF tuple extraction
+scipy>=1.10
+pypdf>=4.0
+# Evaluation harness (evaluation/) + Mahalanobis novelty: numerics & stats.
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
