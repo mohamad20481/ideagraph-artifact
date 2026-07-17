@@ -7,8 +7,11 @@ per-dimension distributions that feed the TOST non-inferiority tests.
 Protocol:
   * Judges see ONLY a blinded 7-field tuple (see crossval.blind) — no source,
     no provenance, no title.
-  * Six dimensions, each on an anchored 1-5 scale (anchors below). Judging
-    temperature is 0.0.
+  * Six dimensions, each on an anchored 1-5 scale (anchors below). Judges are
+    called at temperature 0.0; note the provider client coerces Kimi's
+    kimi-k2* reasoning models to their required temperature 1.0 (see
+    claude_provider.OpenAICompatClient._coerce_temperature), so the two K2
+    judges are non-deterministic while moonshot-v1-32k judges at 0.0.
   * A panel is a list of independently-callable judge clients (ideally from
     DIFFERENT providers). Scores are averaged across judges per dimension.
   * Unit mapping for downstream metrics: score_unit = (score - 1) / 4, so
@@ -128,6 +131,8 @@ class Judge:
                     system=_JUDGE_SYSTEM,
                     user=_judge_user_prompt(item),
                     max_tokens=eff_tokens,
+                    # Coerced to 1.0 for kimi-k2* reasoning models by the
+                    # provider client (_coerce_temperature); 0.0 elsewhere.
                     temperature=0.0,
                     json_mode=True,
                 )
